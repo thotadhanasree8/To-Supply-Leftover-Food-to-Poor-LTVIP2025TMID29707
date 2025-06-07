@@ -9,12 +9,31 @@ ORG USERNAME - thotadhanasree8696@agentforce.com
 PASSWORD - Gayatri@123
 
 STUDENT ID -
-STUDENT NAME - 
+STUDENT NAME - PASUPULETI MOUNIKA
 GROUP - B.Com (Computer Application)
 LEARNING TRACK - SALESFORCE - DEVELOPER
-TRAILHEAD PROFILE -
+TRAILHEAD PROFILE -https://www.salesforce.com/trailblazer/uu3cbyhbjy0fy0svgj
 
 PROJECT NAME - To Supply Leftover Food To Poor
-ORG USERNAME - 
+ORG USERNAME - mounikapasupuleti118496@agentforce.com
 PASSWORD - Gayatri@123
 
+STUDENT ID -
+STUDENT NAME - JAGADEESH MANASA
+GROUP - B.Com (Computer Application)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE -https://www.salesforce.com/trailblazer/ft0630441co375vw1d
+
+PROJECT NAME - To Supply Leftover Food To Poor
+ORG USERNAME - jagadeeshmanasa90238@agentforce.com
+PASSWORD - Gayatri@123
+
+STUDENT ID -
+STUDENT NAME - RAMYASHREE  M P 
+GROUP - B.Com (Computer Application)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE -https://www.salesforce.com/trailblazer/znatzss5plaxfzo4nn
+
+PROJECT NAME - To Supply Leftover Food To Poor
+ORG USERNAME - shreeramya1208368@agentforce.com
+PASSWORD - Gayatri@123
