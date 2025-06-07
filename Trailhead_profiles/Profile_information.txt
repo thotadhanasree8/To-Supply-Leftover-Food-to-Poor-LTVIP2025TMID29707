@@ -1,1 +1,20 @@
+STUDENT ID -SBAP0029707
+STUDENT NAME - Thota Dhana sree
+GROUP - B.Com (Computer Application)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE - https://www.salesforce.com/trailblazer/j9sv2yjkuq84yb9obm
+
+PROJECT NAME - To Supply Leftover Food To Poor
+ORG USERNAME - thotadhanasree8696@agentforce.com
+PASSWORD - Gayatri@123
+
+STUDENT ID -
+STUDENT NAME - 
+GROUP - B.Com (Computer Application)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE -
+
+PROJECT NAME - To Supply Leftover Food To Poor
+ORG USERNAME - 
+PASSWORD - Gayatri@123
 
